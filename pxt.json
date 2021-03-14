@@ -1,0 +1,23 @@
+{
+    "name": "QILIU983",
+    "version": "0.0.0",
+    "description": "A test micro:bit software package",
+    "license": "Own",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "custom.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
